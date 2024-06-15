@@ -32,7 +32,7 @@ body {
   border-color: whitesmoke;
 }
 .dark footer,
-.dark span {
+.dark footer a {
   color: whitesmoke;
 }
 
@@ -100,7 +100,7 @@ footer {
   line-height: 1.5px;
   color: var(--secondary-color);
 }
-span {
+footer a {
   color: rgba(29, 28, 28, 0.938);
   font-weight: 400;
 }
